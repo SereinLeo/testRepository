@@ -6,4 +6,7 @@ package cn.wanfeng.user.service.impl;
  * Description:
  */
 public class ProductServiceImpl {
+	public void fixBug(){
+		System.out.println("bug fixed");
+	}
 }
