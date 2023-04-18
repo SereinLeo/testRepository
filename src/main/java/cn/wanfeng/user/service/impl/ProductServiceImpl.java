@@ -8,5 +8,6 @@ package cn.wanfeng.user.service.impl;
 public class ProductServiceImpl {
 	public void fixBug(){
 		System.out.println("bug fixed");
+		System.out.println("系统打印bug修复");
 	}
 }
